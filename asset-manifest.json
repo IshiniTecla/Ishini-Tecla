@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Ishini-Tecla/static/css/main.bf538fe7.css",
-    "main.js": "/Ishini-Tecla/static/js/main.c86ddd24.js",
+    "main.js": "/Ishini-Tecla/static/js/main.205f6063.js",
     "static/media/HeroImage.jpeg": "/Ishini-Tecla/static/media/HeroImage.d83ddaa39d7ef5b79040.jpeg",
     "index.html": "/Ishini-Tecla/index.html",
     "main.bf538fe7.css.map": "/Ishini-Tecla/static/css/main.bf538fe7.css.map",
-    "main.c86ddd24.js.map": "/Ishini-Tecla/static/js/main.c86ddd24.js.map"
+    "main.205f6063.js.map": "/Ishini-Tecla/static/js/main.205f6063.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.c86ddd24.js"
+    "static/js/main.205f6063.js"
   ]
 }
