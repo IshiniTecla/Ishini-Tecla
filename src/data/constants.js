@@ -11,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/IshiniTecla/IshiniTecla",
   resume:
-    "https://drive.google.com/file/d/1FZHVK1fqNwfcipWGrvCOgZO2RxK1Nmql/view?usp=sharing",
+    "https://drive.google.com/file/d/1abmyjZNiXQeF2n41ZWXqyLWExfTWcfom/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ishini-tecla-5b7307224/",
   twitter: "",
   insta: "https://www.instagram.com/ishini_tecla/",
