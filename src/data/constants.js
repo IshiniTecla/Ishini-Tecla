@@ -7,6 +7,7 @@ import todoAppImg from '../images/todo_app.png';
 import ictisLogo from '../images/ictis_logo.png';
 import iwtrcCover from '../images/iwtrc_cover.png';
 import sliitLogo from '../images/sliit_logo.png';
+import sinhalaMithuruImg from '../images/sinhala_mithuru.png';
 export const Bio = {
   name: "Ishini Tecla",
   roles: [
@@ -233,11 +234,29 @@ export const education = [
     school: "Kegalu Balika Vidyalaya",
     date: "May 2013 - Aug 2022",
     desc: "I completed my junior high school education & high school education at Kegalu Balika Vidyalaya, Kegalle. I've completed my Ordinary levels and Advanced levels in Physical Sciences there.",
-    degree: "GCE Advanced Level",
+    degree: "GCE Ordinary level, GCE Advanced Level",
   },
 ];
 
 export const projects = [
+  {
+    id: 0,
+    title: "Sinhala Mithuru: AI-Powered Primary Education Framework",
+    date: "2025 - 2026",
+    description:
+      "Sinhala Mithuru is an adaptive, diglossia-aware Generative AI framework designed to solve the critical lack of dynamic educational tools for the Sinhala language. By applying QLoRA fine-tuning to an open-source 8B LLaMA model trained on a custom 3,000-record dataset, the system generates targeted reading comprehension quizzes and stories that perfectly match a primary student's grade level. To bridge the gap between stochastic AI and rigid application requirements, I engineered a deterministic backend validation layer that completely eliminates JSON formatting hallucinations, ensuring 100% system stability. This research was published in Springer Nature and presented at ICTIS 2026.",
+    image: sinhalaMithuruImg,
+    tags: [
+      "Python",
+      "LLaMA 3",
+      "QLoRA",
+      "Unsloth",
+      "Modal",
+      "Generative AI",
+      "NLP"
+    ],
+    category: "machine learning",
+  },
   {
     id: 1,
     title: "Go Agro",
