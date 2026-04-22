@@ -1,14 +1,23 @@
 {
   "files": {
     "main.css": "/Ishini-Tecla/static/css/main.bf538fe7.css",
-    "main.js": "/Ishini-Tecla/static/js/main.205f6063.js",
+    "main.js": "/Ishini-Tecla/static/js/main.b12e5940.js",
+    "static/media/car_race.png": "/Ishini-Tecla/static/media/car_race.e2b8b8fbd2a4b046c19a.png",
+    "static/media/lanka_lands.png": "/Ishini-Tecla/static/media/lanka_lands.46669592c22b28291042.png",
+    "static/media/craveroute.png": "/Ishini-Tecla/static/media/craveroute.135ef02be4d34c84d8be.png",
+    "static/media/todo_app.png": "/Ishini-Tecla/static/media/todo_app.0e398b511a3822991cd1.png",
+    "static/media/cert1.jpg": "/Ishini-Tecla/static/media/cert1.d6aef5f8babb4b5ecb45.jpg",
+    "static/media/cert2.jpg": "/Ishini-Tecla/static/media/cert2.a0bae01accbe3973a776.jpg",
     "static/media/HeroImage.jpeg": "/Ishini-Tecla/static/media/HeroImage.d83ddaa39d7ef5b79040.jpeg",
+    "static/media/ictis_logo.png": "/Ishini-Tecla/static/media/ictis_logo.cce220bee48f13b8cbc6.png",
+    "static/media/sliit_logo.png": "/Ishini-Tecla/static/media/sliit_logo.789609401e4c272411f3.png",
+    "static/media/iwtrc_cover.png": "/Ishini-Tecla/static/media/iwtrc_cover.6fcd436d2271f52c5aaf.png",
     "index.html": "/Ishini-Tecla/index.html",
     "main.bf538fe7.css.map": "/Ishini-Tecla/static/css/main.bf538fe7.css.map",
-    "main.205f6063.js.map": "/Ishini-Tecla/static/js/main.205f6063.js.map"
+    "main.b12e5940.js.map": "/Ishini-Tecla/static/js/main.b12e5940.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.205f6063.js"
+    "static/js/main.b12e5940.js"
   ]
 }
